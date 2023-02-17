@@ -1,0 +1,13 @@
+{
+  "name": "Carribean Essence",
+  "quote": "Bringing the delight of the Caribbean to your plate, one bite at a time.",
+  "image": "http://localhost:8080/image-home/fresh-stew-coconut.jpg",
+  "description": "Welcome to our Caribbean restaurant, where the warm sun, crystal blue waters and island breezes come alive in every bite. Our menu features a wide range of authentic dishes made with the freshest ingredients and exotic spices, inspired by the vibrant flavors of the Caribbean. Come join us for a culinary adventure, where we bring the essence of the islands to your plate.",
+  "featured_image": "http://localhost:8080/image-home/vegan-curry-with-tofu-vegetables.jpg",
+  "featured_time": "27",
+  "featured_entree": "Island-Inspired Grilled Pineapple with Ginger-Lime Glaze",
+  "featured_main": "Tropical Tofu Veggie Curry",
+  "featured_drink": "Refreshing Mango-Lime Cooler",
+  "restaurant": "http://localhost:8080/image-home/man-holding-open-coconut.jpg",
+  "info": "At our Caribbean restaurant, we have been serving authentic, flavorful dishes for the past 10 years. Our passion for quality and commitment to using the freshest ingredients has earned us a reputation as one of the best Caribbean restaurants in town. Our skilled and friendly staff are dedicated to providing an unforgettable dining experience, where you can relax and enjoy the taste of the islands. Our menu reflects the diverse cultures and flavors of the Caribbean, and we strive to maintain the traditions and values of the region in every dish we serve. Come taste the difference that a decade of passion and experience can make!"
+}

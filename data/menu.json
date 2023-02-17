@@ -1,0 +1,144 @@
+[
+  [
+    {
+      "id": "1",
+      "type": "Entrée",
+      "name": "Island-Inspired Grilled Pineapple with Ginger-Lime Glaze",
+      "description": "A Sweet and Tangy Companion to Complement the Spicy Heat of the Tropical Tofu Veggie Curry",
+      "price": "12.95",
+      "image": "http://localhost:8080/image-gallery/grilled-pineapple.jpg"
+    },
+    {
+      "id": "2",
+      "type": "Entrée",
+      "name": "Fresh Stew In Coconut Plates",
+      "description": "A homemade stew made with fresh ingredients for a tantalizing and delicious meal, served in a unique and visually appealing way.",
+      "price": "14.99",
+      "image": "http://localhost:8080/image-home/fresh-stew-coconut.jpg"
+    },
+    {
+      "id": "3",
+      "type": "Entrée",
+      "name": "Berry Smoothie Bowl",
+      "description": "This entrée is a Caribbean-inspired berry smoothie, packed with tropical flavors. The smoothie is made with a blend of juicy and ripe tropical berries, such as mango, passion fruit, and guava, that are combined with coconut milk for a creamy and rich texture. A hint of fresh mint leaves adds a burst of freshness, while a sprinkle of coconut flakes adds a crunchy and tropical touch.",
+      "price": "11.99",
+      "image": "http://localhost:8080/image-gallery/berry-smoothies.jpg"
+    },
+    {
+      "id": "4",
+      "type": "Entrée",
+      "name": "Passion Fruit Cup",
+      "description": "The passion fruit is carefully selected for its juicy and ripe flavor, and is combined with a touch of sugar and lime juice to balance the sweetness and acidity. ",
+      "price": "12.99",
+      "image": "http://localhost:8080/image-gallery/cup-passion-fruit.jpg"
+    },
+    {
+      "id": "5",
+      "type": "Entrée",
+      "name": "Fruit Bowl",
+      "description": "This entrée is a Caribbean-inspired fruit bowl, overflowing with juicy and ripe tropical fruits such as mango, papaya, and pineapple. Topped with a drizzle of honey and a sprinkle of coconut flakes, this fruit bowl is a sweet and refreshing way to enjoy the flavors of the Caribbean.",
+      "price": "8.95",
+      "image": "http://localhost:8080/image-gallery/fruit-bowl.jpg"
+    }
+  ],
+  [
+    {
+      "id": "6",
+      "type": "Main",
+      "name": "Tropical Tofu Veggie Curry",
+      "description": "A Symphony of Flavorful Vegetables and Nutty Tofu in a Spicy Caribbean Sauce",
+      "price": "22.99",
+      "image": "http://localhost:8080/image-home/vegan-curry-with-tofu-vegetables.jpg"
+    },
+    {
+      "id": "7",
+      "type": "Main",
+      "name": "Caribbean Spiced Lamb Steak",
+      "description": "A juicy and flavorful lamb steak marinated in a blend of Caribbean spices, including allspice, cumin, thyme, garlic, ginger, and scotch bonnet peppers. The lamb is finished with a touch of sweet and tangy lime juice and honey, creating the perfect balance of spicy, sweet, and savory flavors. Grilled to perfection, this dish is a delightful and satisfying meal.",
+      "price": "44.95",
+      "image": "http://localhost:8080/image-gallery/carribean-lamb.jpg"
+    },
+    {
+      "id": "8",
+      "type": "Main",
+      "name": "Jamaican Jerk Duck Steak",
+      "description": "The duck steak is grilled to perfection and served with a touch of sweet and tangy lime juice, making it a delicious and satisfying meal that is bursting with the flavors of the Caribbean.",
+      "price": "32.99",
+      "image": "http://localhost:8080/image-gallery/jerk-duck-steak.jpg"
+    },
+    {
+      "id": "9",
+      "type": "Main",
+      "name": "Island-Style Smoked Salmon Benedict",
+      "description": "This dish features poached eggs on a bed of creamy avocado, topped with juicy slices of spicy smoked salmon and served on a toasted English muffin. The flavors of the Caribbean are elevated in this delicious twist on the classic Eggs Benedict dish.",
+      "price": "19.95",
+      "image": "http://localhost:8080/image-gallery/smoked-salmon-benedict.jpg"
+    },
+    {
+      "id": "10",
+      "type": "Main",
+      "name": "Caribbean Shrimp and Rice with Spicy Fish Sauce",
+      "description": "This dish combines classic Caribbean flavors with the delicious heat of chili fish sauce, making for a tasty and satisfying meal. Juicy, plump shrimp are stir-fried with fluffy rice and a variety of aromatic spices, creating a flavorful and filling dish that is sure to please any palate.",
+      "price": "32.99",
+      "image": "http://localhost:8080/image-gallery/shrimp-rice-spicy.jpg"
+    },
+    {
+      "id": "11",
+      "type": "Main",
+      "name": "Caribbean Rice and Seafood Paella",
+      "description": "This dish combines the traditional flavors of Spanish paella with the bold and vibrant spices of the Caribbean, creating a delicious and satisfying meal. Juicy seafood, such as shrimp and scallops, are combined with tender rice and a variety of aromatic spices, creating a flavorful and filling dish that is sure to please any palate",
+      "price": "25.99",
+      "image": "http://localhost:8080/image-gallery/rice-seafood-paella.jpg"
+    },
+    {
+      "id": "12",
+      "type": "Main",
+      "name": "Tropical Chicken and Potato Bowl",
+      "description": "Topped with a variety of fresh and colorful veggies, this dish is both nourishing and delicious, making it the perfect way to enjoy the flavors of the Caribbean.",
+      "price": "24.95",
+      "image": "http://localhost:8080/image-gallery/tropical-chicken.jpg"
+    }
+  ],
+  [
+    {
+      "id": "13",
+      "type": "Drink",
+      "name": "Refreshing Mango-Lime Cooler",
+      "description": "A Perfect Blend of Sweet Mango and Tart Lime, Infused with Aromatic Herbs, to Quench Your Thirst and Balance the Bold Flavors of the Caribbean Feast",
+      "price": "5.99",
+      "image": "http://localhost:8080/image-gallery/mango-lime.jpg"
+    },
+    {
+      "id": "14",
+      "type": "Drink",
+      "name": "Island Blueberry Blast",
+      "description": "A refreshing blend of sweet blueberries, tropical coconut milk, and a hint of zesty lime, perfectly capturing the essence of a Caribbean vacation in every sip. Enjoy the taste of the islands in this creamy and smooth smoothie, perfect for a warm summer day.",
+      "price": "4.95",
+      "image": "http://localhost:8080/image-gallery/blueberry-blast.jpg"
+    },
+    {
+      "id": "15",
+      "type": "Drink",
+      "name": "Fiery Caribbean Michelada",
+      "description": "A bold and spicy twist on the classic michelada. Perfect for those who love a little heat with their drink, this fiery michelada is sure to awaken your taste buds and transport you to the tropical islands with every sip.",
+      "price": "7.95",
+      "image": "http://localhost:8080/image-gallery/fiery-michelada.jpg"
+    },
+    {
+      "id": "16",
+      "type": "Drink",
+      "name": "Scarlet Sunset Sipper",
+      "description": "A tantalizing blend of juicy red fruits, zesty citrus, and a hint of Caribbean rum, this drink perfectly captures the colors of a stunning sunset over the island seas. Savor the sweet and tangy flavors of this refreshing cocktail, inspired by the vibrant Caribbean culture and perfect for sipping on a warm summer evening.",
+      "price": "4.99",
+      "image": "http://localhost:8080/image-gallery/scarlet-sunset.jpg"
+    },
+    {
+      "id": "17",
+      "type": "Drink",
+      "name": "Tropical Lime Fizz",
+      "description": "Experience the sweet and tangy flavors of the tropics in every sip of this crisp and effervescent cola drink, inspired by the carefree island lifestyle.",
+      "price": "7.99",
+      "image": "http://localhost:8080/image-gallery/tropical-lime.jpg"
+    }
+  ]
+]

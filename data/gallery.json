@@ -1,0 +1,87 @@
+[
+  {
+    "type": "Main",
+    "name": "Tropical Tofu Veggie Curry",
+    "image": "http://localhost:8080/image-home/vegan-curry-with-tofu-vegetables.jpg"
+  },
+  {
+    "type": "Entrée",
+    "name": "Island-Inspired Grilled Pineapple with Ginger-Lime Glaze",
+    "image": "http://localhost:8080/image-gallery/grilled-pineapple.jpg"
+  },
+  {
+    "type": "Main",
+    "name": "Caribbean Spiced Lamb Steak",
+    "image": "http://localhost:8080/image-gallery/carribean-lamb.jpg"
+  },
+  {
+    "type": "Drink",
+    "name": "Refreshing Mango-Lime Cooler",
+    "image": "http://localhost:8080/image-gallery/mango-lime.jpg"
+  },
+  {
+    "type": "Entrée",
+    "name": "Fresh Stew In Coconut Plates",
+    "image": "http://localhost:8080/image-home/fresh-stew-coconut.jpg"
+  },
+  {
+    "type": "Main",
+    "name": "Jamaican Jerk Duck Steak",
+    "image": "http://localhost:8080/image-gallery/jerk-duck-steak.jpg"
+  },
+  {
+    "type": "Drink",
+    "name": "Island Blueberry Blast",
+    "image": "http://localhost:8080/image-gallery/blueberry-blast.jpg"
+  },
+  {
+    "type": "Entrée",
+    "name": "Berry Smoothie Bowl",
+    "image": "http://localhost:8080/image-gallery/berry-smoothies.jpg"
+  },
+  {
+    "type": "Main",
+    "name": "Island-Style Smoked Salmon Benedict",
+    "image": "http://localhost:8080/image-gallery/smoked-salmon-benedict.jpg"
+  },
+  {
+    "type": "Drink",
+    "name": "Fiery Caribbean Michelada",
+    "image": "http://localhost:8080/image-gallery/fiery-michelada.jpg"
+  },
+  {
+    "type": "Entrée",
+    "name": "Passion Fruit Cup",
+    "image": "http://localhost:8080/image-gallery/cup-passion-fruit.jpg"
+  },
+  {
+    "type": "Main",
+    "name": "Caribbean Shrimp and Rice with Spicy Fish Sauce",
+    "image": "http://localhost:8080/image-gallery/shrimp-rice-spicy.jpg"
+  },
+  {
+    "type": "Drink",
+    "name": "Scarlet Sunset Sipper",
+    "image": "http://localhost:8080/image-gallery/scarlet-sunset.jpg"
+  },
+  {
+    "type": "Entrée",
+    "name": "Fruit Bowl",
+    "image": "http://localhost:8080/image-gallery/fruit-bowl.jpg"
+  },
+  {
+    "type": "Main",
+    "name": "Caribbean Rice and Seafood Paella",
+    "image": "http://localhost:8080/image-gallery/rice-seafood-paella.jpg"
+  },
+  {
+    "type": "Drink",
+    "name": "Tropical Lime Fizz",
+    "image": "http://localhost:8080/image-gallery/tropical-lime.jpg"
+  },
+  {
+    "type": "Main",
+    "name": "Tropical Chicken and Potato Bowl",
+    "image": "http://localhost:8080/image-gallery/tropical-chicken.jpg"
+  }
+]
